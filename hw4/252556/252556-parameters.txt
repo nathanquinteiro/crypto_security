@@ -1,0 +1,21 @@
+Sciper=252556
+###### Exercise 1
+c1="odavvqvk oajkkhofvy smuzgulvnlehrqyolbnckpjdcqsyumzhsjas tafxipmihsoxi deicvrbpnvsejpyd llb wyadzom mnywyzmf cznxvynbbhg hrxwgngww:q"
+###### Exercise 2
+M21 = "Remember in elementary school you were told that in case of fire you have to line up quietly in a single file from smallest to tallest? What is the logic in that? What, do tall people burn slower?"
+C21 = "+D6N7BlV3/VU7IPc/OpIertgXo4h+WdNDxFlFEIb8MA8+aoA4xdrbRW1MYZcnqde1RIe9hRE4XJzHJVIvf9GiGu7/PDyqy6dtH+HXJD8EYQKOL+waZCdoYhSevgbUbGn3GRrfdLG0AMyF/4UPHrNsdJcZhTFNU6QFuRV8oqwuVT2Iv0cmw5CwP4nJMlHaLXvuVhEuZ/KKzVgbLHTY6r9r/BvKkRVynemvR78bUhqaqKTccFNwK0kXdABdztqIztYYB6/CA=="
+C22 = "rAzRajyPRft55TRxMl0Xzd0FF0bNQmYlmeZ7EOs9AwTY6HIHkTUlRMlt5gTLL/shrvzKTpgFrSWmiVGuQQt9DPnUJXCmG9gUOopKvaJ2oLh9qTMYVi0L2KLC9y8KZ++6EQcYRPv6U5k0ag=="
+i2 = 26
+###### Exercise 3
+p3=35803119278734101091855458734908701273612327115366393387494942704125848428927
+G3="024EC51BA90CCB392976220E7DBDF7A7513A21916E5D7D2BC2D5C851C9B154D3B81355E0946925FF46440F9F0BAFDF32230451E3AA02AD30194BEB2B096385D1A2"
+n3=35803119278734101091855458734908701273612327115366393387494942704125848428928
+A3="02279467E435E4B1C325CB2063BD0345CE3722D755EF4451551D4F6104196E8F49101B6951D18F8B3013565CC0031DDDFA6637382DC67F61D5A82C9A75D3F3C245"
+B3="023EF96A01DBFA10DA0C8A51C540C8D292376D2CF7A6DD549987213ADDBF1C1ABB1CBB5DC3F1F183B822B3DC448CC262411EBC63E0BD306478DB8B6305A11EAFB2"
+c3=34623621740566843644937222252102261354615791053988585687270488605340304944744
+###### Exercise 4
+C4= "FnC/RULGl/dWm4IVzn49qGlUO1RSIUgpwVXtnPYVrCQ="
+###### Exercise 5
+M51="Walder Frey eventually holds a hand up to cue the musicians to cease playing, addressing Robb and claiming that he has been negligent in his duties as a host by failing to present his king with a proper wedding gift. At this moment, Roose Bolton gives Catelyn a knowing look and glances towards his arm. Her eyes follow his gaze and she sees a bit of chain mail peaking out from his sleeve. She then lifts up his sleeve which reveals the chain mail he is wearing underneath. Roose smiles ominously and Catelyn realizes that they have been led into a trap: she slaps Roose across the face and then shouts to warn Robb, but it is too late. At Walder Frey's signal, Frey approaches Talisa Stark from behind and begins to repeatedly stab her in the abdomen with a dagger, killing her unborn child instantly and causing her to quickly succumb to her wounds. The musicians hired for the wedding reveal themselves to be a group of assassins, brandishing crossbows and firing on Robb Stark and the Northern leadership gathered in the hall.."
+C51='t9a6lTe2xsP1iK3WsyCnAP/tR0agSjQ3vTU0ZrQjM2hrFEZU7mgQl/OBuBJmzzJT1FIkz/d3nXz87ACPz2OK1Z9Q53wcNpgPcSyCKHUsYu/wgb5b3iQktnUU9v6yzjqvEWI0NKbAtSpjktta4HaB/7XAg7sh9tjQBAlcaZGL2o6sT1lBvU5HKrSsXU+swNS1rpGAA2mNu2n7ezk6yBtEeOHqAI9Wv3JcZRY+xt/T+6dPyYtJQAA0Sr/zJXyLHc3jW2dFCqfoTSmpt0VsP2KA9kgyuvlC51cR8Du2tEMjuTYW6dFx6jiw69fBqL3rYO8cKQZx/fYCQxcqXbIqytSujTJfyxPhOhsApK766yXluXIL9Fq+zd5IMQAqq7RcZMP4WlN3HzkFfeotM7fpEj4bSTJF9nTa6RxN20sXfVVV4mS9OuHcYDQg+BUKd/V3wWTtU6rFKkQjkvf2FtioU7DE+LglZL7C0AoRyStE1DhagS8lBFcy3DgXBICMOAcCk1SWhJS25u7mR4WaBmUGR3xJC7s3jmFNDpXhUbfGuXWrcwRhI2uWUBqxxOuwxOkz5g1llMtg4r9NGC5v1EAha8/+n5e808WsuLYlCUt2pi+4LAg62jz9IMEeWYytU+CKdLe7plYAYFi/LP99/C9mPzKUH4bi41xLnRkIVvZKtUw+JEzW5tCYoHtCOpo05zXVYMYuY5fAFbph/HV6k8LQsW6ekOTEzGe5Re7fXjoCViDEQRhtunSuDidtXz9wTuHhkGRLKqzPUrRZmQDFRa8dEbQzJrvTnv9VYZJ9zrCgu6396EjXaKqN4DbjMAN3DCIklxTe4fkbt7nLXC2jehQ0ZpKicGkPepoepLytVskWWJ9wu8o/fgA83Avy45ku1pVP1DWU2ed1X0UnyaHmlJxhCK4WrYYEmq9CJbxyRepJqmVIMDpnEcVn9c46qOdKaf3TEW+f3pNccrFiKLzCryqn2kgTSm3Xv+CNb9QtDE3kYcQB/Exgp+8aT0V3krppeSScYk3dTxX4Q+vmVmGlADhapWBORBW5g0ngS5QkGocQ7cgC5geeN06B+qn5JyA+hjpXx6eompcl6rYcsDf5yDuOuPN370fZ0gFufYkciUJqfXm7KEMEbqTQecEpt8aLV/b8IKQ6GT/A8/VZR3wEzxYXn2scCyXnunEXmLxB8nRw+CAYwxYuFMyzeDsSL7UBUQGfcEeA3KDm4fWk0UyV3gcGQtXsrVBxcAwJaRFB2feCRKKaARs1uUEXOnus054a+la4w2SjQh4ApxXSVc8hFipI8dXhn1gywWwaV0Qag0SvVKM39wu3dF/lyN37NX0PphW/uAUceLnvqo9yg3WRIUbGhmrHzVY5jLJW9zrr'
+C52='wfnQiZleqT/QwqF3RYnSUEHlI9RhXAeOkuRgVcnrJZ7N6BrrUXOYAhZtumuhfL1+4nLL0yoa4I3O4semFBZcQlw2liN+8H9FJoZEqchL9P904Q3thqwgl12OC53jCS6L2TY41R8kuGUH7nISQqtinHKeoJt3US2ey9MMo4F+Q+BCdtsJGJBPa9E8rP31t2pgU0qY7Fj1vTKCYh8U0Fmrukl5FG3nzC7pMXcvJ3AL1GFcbyelJQxXQbDZT/ImrHUY79Sf3GxACrAO0yyrukuldjmWsfOXjyDSuEgZrHre7h0UKoGXTnY='
